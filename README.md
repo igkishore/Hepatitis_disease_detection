@@ -1,4 +1,4 @@
-# paddy_disease_with_ml_2
+# Hepatitis_disease_with_ml_2
 this is the code for the paddy disease detection using two models svm and knn......
 # SVM:
 In machine learning, support-vector machines (SVMs, also support-vector networks[1]) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. 
