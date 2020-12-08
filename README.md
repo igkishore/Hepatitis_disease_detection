@@ -23,40 +23,31 @@
 ## ATTRIBUTES
 | Attributes | Value | 
 | :---: | :---:|
-Age |Numerical  value | Sex | male(1), female(2) | Steroid | 
-no(1), yes(2)
-Liver Big
-no(1), yes(2)
-Liver Firm
-no(1), yes(2)
-Spiders
-no(1), yes(2)
-Antivirals
-no(1), yes(2)
-Fatigue
-no(1), yes(2)
-Malaise
-no(1), yes(2)
-Spleen Palpable
-no(1), yes(2)
-Ascites
-no(1), yes(2)
-Varices
-no(1), yes(2)
-Varices
-no(1), yes(2)
-Bilirubin
-0.39, 0.80, 1.20, 2.00, 3.00, 4.00
-Alkaline Phosphate
-33, 80, 120, 160, 200, 250
-Aspartate transaminase
-13, 100, 200, 300, 400, 500
-Albumin
-2.1, 3.0, 3.8, 4.5, 5.0, 6.0
-Pro-time
-10, 20, 30, 40, 50, 60, 70, 80, 90
-Histology
-no(1), yes(2)
+| Age | no(1), yes(2) |
+Numerical  value no(1), yes(2)
+Sex no(1), yes(2)
+male(1), female(2) no(1), yes(2)
+Steroid no(1), yes(2)
+Liver Bigno(1), yes(2)
+
+Liver Firmno(1), yes(2)
+
+Spidersno(1), yes(2)
+
+Antiviralsno(1), yes(2)
+
+Fatigue no(1), yes(2)
+Malaise no(1), yes(2)
+Spleen Palpable no(1), yes(2)
+Ascites no(1), yes(2)
+Varices no(1), yes(2)
+Varices no(1), yes(2)
+Bilirubin 0.39, 0.80, 1.20, 2.00, 3.00, 4.00
+Alkaline Phosphate 33, 80, 120, 160, 200, 250
+Aspartate transaminase 13, 100, 200, 300, 400, 500
+Albumin 2.1, 3.0, 3.8, 4.5, 5.0, 6.0
+Pro-time 10, 20, 30, 40, 50, 60, 70, 80, 90
+Histology no(1), yes(2)
 
 
 
