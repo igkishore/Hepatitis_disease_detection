@@ -73,6 +73,10 @@
 - As you can see from the figure, an ANN is a very simplistic representation of a how a brain neuron works.
 
 ## Results
+<p  align="center">
+    <img src="./assets/2.png" alt="OCR" width="550"  height="250">
+    <img src="./assets/3.png" alt="OCR" width="550"  height="250">
+</p>
 
 
 ## Conclusion
