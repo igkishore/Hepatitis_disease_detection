@@ -76,6 +76,7 @@
 <p  align="center">
     <img src="./assets/2.png" alt="OCR" width="550"  height="250">
     <img src="./assets/3.png" alt="OCR" width="550"  height="250">
+    <img src="./assets/4.png" alt="OCR" width="550"  height="250">
 </p>
 
 
