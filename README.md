@@ -48,7 +48,7 @@
 ## Block Diagram
 
 <p  align="center">
-    <img src="./assets/1.png" alt="OCR" width="250"  height="250">
+    <img src="./assets/1.png" alt="OCR" width="550"  height="250">
 </p>
 
 ## Algorithms and Classifiers
