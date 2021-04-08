@@ -1,7 +1,7 @@
 # Prediction Of Hepatitis Disease Using Machine Learning Technique 
 
 <p align="center">
-    <img src="https://www.news-medical.net/image.axd?picture=2019%2F7%2F%40shutterstock_1103225852.jpg" alt="OCR" width="250"  height="250">
+    <img src="https://www.oncologynurseadvisor.com/wp-content/uploads/sites/13/2019/10/liver_hepatitisB_1055490376.jpg" alt="OCR" width="250"  height="250">
 </p>
 
 ## Contents
